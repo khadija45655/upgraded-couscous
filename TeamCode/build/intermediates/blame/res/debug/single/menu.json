@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\khadi\\Desktop\\upgraded-couscous\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\menu_server.xml",
+        "source": "C:\\Users\\khadi\\.android\\build-cache\\08251d997fd24e142cd1cc487e78eceea1b14211\\output\\res\\menu\\menu_server.xml"
+    },
+    {
+        "merged": "C:\\Users\\khadi\\Desktop\\upgraded-couscous\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\ftc_robot_controller.xml",
+        "source": "C:\\Users\\khadi\\Desktop\\upgraded-couscous\\FtcRobotController\\build\\intermediates\\bundles\\default\\res\\menu\\ftc_robot_controller.xml"
+    },
+    {
+        "merged": "C:\\Users\\khadi\\Desktop\\upgraded-couscous\\TeamCode\\build\\intermediates\\res\\merged\\debug\\menu\\main_menu.xml",
+        "source": "C:\\Users\\khadi\\.android\\build-cache\\83f27ddf601c8029308857b649532ab7447a52cb\\output\\res\\menu\\main_menu.xml"
+    }
+]

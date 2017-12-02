@@ -50,5 +50,6 @@ public class    FullAutoBlueParallel extends Processor{
         stopBotMotors();
         sleep(500);
         score();
+        score2();
     }
 }
