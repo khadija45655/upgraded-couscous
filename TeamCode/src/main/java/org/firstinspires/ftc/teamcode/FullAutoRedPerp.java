@@ -59,6 +59,7 @@ public class FullAutoRedPerp extends Processor{
 
         //releases the glyph and pushes the glyph into the cryptobox
         score();
+        score2();
 
     }
 }
